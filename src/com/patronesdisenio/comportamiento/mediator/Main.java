@@ -1,5 +1,10 @@
 package com.patronesdisenio.comportamiento.mediator;
 
+/**
+ *  Registra objetos y gestiona por separado su notificacion
+ *
+ *
+ **/
 public class Main {
     public static void main(String[] args) {
         Mediator mediator = new MediadorConcreto();

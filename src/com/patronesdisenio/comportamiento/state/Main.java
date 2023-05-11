@@ -1,5 +1,8 @@
 package com.patronesdisenio.comportamiento.state;
 
+/**
+ * Estructura de forma tecnica la
+ */
 public class Main {
     public static void main(String[] args) {
 

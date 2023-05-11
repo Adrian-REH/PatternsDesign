@@ -1,11 +1,9 @@
 package com.patronesdisenio.estructura.decorador;
 
 /**
- * Sistema de notificacion
  *
- * para distintas redes sociales
- * disparando en las clases (Redes sociales)
- *
+ * Estructura una interfaz para usar multiples soluciones
+ * combinandolas
  *
  */
 public class Main {

@@ -1,5 +1,13 @@
 package com.patronesdisenio.creacion.builder;
 
+/**
+ * Construye el setteo personalizado de una clase
+ * de objeto devolviendo con "build" la clase
+ * al finalizar lo que se quiere setear
+ *
+ *
+ * Construye el setteo personalizado de una clase.
+ */
 public class Main {
     public static void main(String[] args) {
 /*        Vehiculo vehiculo = new Vehiculo();

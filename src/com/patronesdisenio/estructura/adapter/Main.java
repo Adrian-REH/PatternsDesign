@@ -1,5 +1,8 @@
 package com.patronesdisenio.estructura.adapter;
 
+/**
+ * Adapta muchas soluciones a un servicio por separado
+ */
 public class Main {
     public static void main(String[] args) {
         Horno horno = new Horno();

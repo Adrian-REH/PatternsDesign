@@ -1,5 +1,14 @@
 package com.patronesdisenio.creacion.prototype2;
 
+/**
+ * Intenta clonar el dato asignado con
+ * anterioridad en un nuevo objeto,
+ * recuperando asi las dos partes
+ * implementando clone en la clase del objeto
+ *
+ *
+ * Clona el objeto en uno nuevo usando Exceptions
+ */
 public class Main {
     public static void main(String[] args) {
         Coche coche= new Coche();
